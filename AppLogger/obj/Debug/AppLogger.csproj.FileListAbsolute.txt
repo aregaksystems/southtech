@@ -1,0 +1,7 @@
+C:\Users\anasa\Documents\Visual Studio 2015\Projects\RumorsTestApp_Anas\AppLogger\bin\Debug\AppLogger.dll.config
+C:\Users\anasa\Documents\Visual Studio 2015\Projects\RumorsTestApp_Anas\AppLogger\bin\Debug\AppLogger.dll
+C:\Users\anasa\Documents\Visual Studio 2015\Projects\RumorsTestApp_Anas\AppLogger\bin\Debug\AppLogger.pdb
+C:\Users\anasa\Documents\Visual Studio 2015\Projects\RumorsTestApp_Anas\AppLogger\bin\Debug\log4net.dll
+C:\Users\anasa\Documents\Visual Studio 2015\Projects\RumorsTestApp_Anas\AppLogger\bin\Debug\log4net.xml
+C:\Users\anasa\Documents\Visual Studio 2015\Projects\RumorsTestApp_Anas\AppLogger\obj\Debug\AppLogger.dll
+C:\Users\anasa\Documents\Visual Studio 2015\Projects\RumorsTestApp_Anas\AppLogger\obj\Debug\AppLogger.pdb
